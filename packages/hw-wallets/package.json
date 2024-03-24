@@ -46,7 +46,7 @@
   "license": "MIT",
   "dependencies": {
     "@enkryptcom/types": "workspace:^",
-    "@enkryptcom/utils": "workspace:^",
+    "@enkryptcom/utils": "0.0.3",
     "@ethereumjs/tx": "^4.2.0",
     "@ledgerhq/hw-app-eth": "^6.35.6",
     "@ledgerhq/hw-transport": "^6.30.4",
