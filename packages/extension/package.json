@@ -45,7 +45,7 @@
     "chai": "^4.4.1",
     "concurrently": "^8.2.2",
     "core-js": "^3.36.0",
-    "echarts": "^5.5.0",
+    "echarts": "^5.5.1",
     "ethereumjs-abi": "^0.6.8",
     "ethereumjs-util": "^7.1.5",
     "ethereumjs-wallet": "^1.0.2",
